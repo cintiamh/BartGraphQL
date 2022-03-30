@@ -1,0 +1,11 @@
+{
+  "name": "BartGraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cintiamh/BartGraphQL.git",
+  "author": "Cintia Higashi <cintiamh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
